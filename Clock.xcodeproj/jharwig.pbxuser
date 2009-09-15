@@ -9,7 +9,7 @@
 	};
 	256AC3D80F4B6AC300CF3369 /* ClockAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {786, 224}}";
+			sepNavIntBoundsRect = "{{0, 0}, {531, 245}}";
 			sepNavSelRange = "{226, 0}";
 			sepNavVisRange = "{0, 233}";
 			sepNavWindowFrame = "{{117, 8}, {890, 823}}";
@@ -31,8 +31,9 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Release;
+		activeBuildConfigurationName = Debug;
 		activeExecutable = 91A7C8C30FE701B400EB35E2 /* Clock */;
+		activeSDKPreference = macosx10.5;
 		activeTarget = 8D1107260486CEB800E47090 /* Clock */;
 		addToTargets = (
 			8D1107260486CEB800E47090 /* Clock */,
@@ -49,7 +50,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					938,
+					341,
 					20,
 					48,
 					43,
@@ -66,21 +67,27 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 267773310;
-			PBXWorkspaceStateSaveDate = 267773310;
+			PBXPerProjectTemplateStateSaveDate = 274687780;
+			PBXWorkspaceStateSaveDate = 274687780;
 		};
 		perUserProjectItems = {
-			91A7C8FA0FE706E900EB35E2 /* PBXTextBookmark */ = 91A7C8FA0FE706E900EB35E2 /* PBXTextBookmark */;
-			91A7CA450FE7347B00EB35E2 /* PBXTextBookmark */ = 91A7CA450FE7347B00EB35E2 /* PBXTextBookmark */;
-			91A7CA670FE735FA00EB35E2 /* PBXTextBookmark */ = 91A7CA670FE735FA00EB35E2 /* PBXTextBookmark */;
-			91A7CAB60FE73F0A00EB35E2 /* PBXTextBookmark */ = 91A7CAB60FE73F0A00EB35E2 /* PBXTextBookmark */;
-			91A7CADC0FE7439100EB35E2 /* PBXTextBookmark */ = 91A7CADC0FE7439100EB35E2 /* PBXTextBookmark */;
-			91A7CAE40FE745E100EB35E2 /* PBXTextBookmark */ = 91A7CAE40FE745E100EB35E2 /* PBXTextBookmark */;
-			91A7CAEA0FE7462700EB35E2 /* PBXTextBookmark */ = 91A7CAEA0FE7462700EB35E2 /* PBXTextBookmark */;
-			91B77F580FF5E62A00FC96DE /* PBXTextBookmark */ = 91B77F580FF5E62A00FC96DE /* PBXTextBookmark */;
-			91B77F590FF5E62A00FC96DE /* PBXTextBookmark */ = 91B77F590FF5E62A00FC96DE /* PBXTextBookmark */;
-			91B77F5A0FF5E62A00FC96DE /* PBXTextBookmark */ = 91B77F5A0FF5E62A00FC96DE /* PBXTextBookmark */;
-			91B77F5B0FF5E62A00FC96DE /* PBXTextBookmark */ = 91B77F5B0FF5E62A00FC96DE /* PBXTextBookmark */;
+			91A7C8FA0FE706E900EB35E2 = 91A7C8FA0FE706E900EB35E2 /* PBXTextBookmark */;
+			91A7CA450FE7347B00EB35E2 = 91A7CA450FE7347B00EB35E2 /* PBXTextBookmark */;
+			91A7CA670FE735FA00EB35E2 = 91A7CA670FE735FA00EB35E2 /* PBXTextBookmark */;
+			91A7CAB60FE73F0A00EB35E2 = 91A7CAB60FE73F0A00EB35E2 /* PBXTextBookmark */;
+			91A7CADC0FE7439100EB35E2 = 91A7CADC0FE7439100EB35E2 /* PBXTextBookmark */;
+			91A7CAE40FE745E100EB35E2 = 91A7CAE40FE745E100EB35E2 /* PBXTextBookmark */;
+			91A7CAEA0FE7462700EB35E2 = 91A7CAEA0FE7462700EB35E2 /* PBXTextBookmark */;
+			91B24277105F6789003CDEE0 /* PBXTextBookmark */ = 91B24277105F6789003CDEE0 /* PBXTextBookmark */;
+			91B24278105F6789003CDEE0 /* PBXTextBookmark */ = 91B24278105F6789003CDEE0 /* PBXTextBookmark */;
+			91B24279105F6789003CDEE0 /* PBXTextBookmark */ = 91B24279105F6789003CDEE0 /* PBXTextBookmark */;
+			91B2427A105F6789003CDEE0 /* PBXTextBookmark */ = 91B2427A105F6789003CDEE0 /* PBXTextBookmark */;
+			91B2427B105F6789003CDEE0 /* PBXTextBookmark */ = 91B2427B105F6789003CDEE0 /* PBXTextBookmark */;
+			91B2427C105F6789003CDEE0 /* PBXTextBookmark */ = 91B2427C105F6789003CDEE0 /* PBXTextBookmark */;
+			91B77F580FF5E62A00FC96DE = 91B77F580FF5E62A00FC96DE /* PBXTextBookmark */;
+			91B77F590FF5E62A00FC96DE = 91B77F590FF5E62A00FC96DE /* PBXTextBookmark */;
+			91B77F5A0FF5E62A00FC96DE = 91B77F5A0FF5E62A00FC96DE /* PBXTextBookmark */;
+			91B77F5B0FF5E62A00FC96DE = 91B77F5B0FF5E62A00FC96DE /* PBXTextBookmark */;
 		};
 		sourceControlManager = 91A7C8D90FE701D000EB35E2 /* Source Control */;
 		userBuildSettings = {
@@ -147,7 +154,7 @@
 	};
 	91A7C8E90FE7044700EB35E2 /* ClockDisplay.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1128, 503}}";
+			sepNavIntBoundsRect = "{{0, 0}, {531, 245}}";
 			sepNavSelRange = "{35, 0}";
 			sepNavVisRange = "{0, 191}";
 			sepNavWindowFrame = "{{71, 50}, {890, 823}}";
@@ -155,9 +162,9 @@
 	};
 	91A7C8EA0FE7044700EB35E2 /* ClockDisplay.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1128, 1136}}";
+			sepNavIntBoundsRect = "{{0, 0}, {836, 1050}}";
 			sepNavSelRange = "{260, 0}";
-			sepNavVisRange = "{0, 705}";
+			sepNavVisRange = "{0, 517}";
 			sepNavWindowFrame = "{{94, 29}, {890, 823}}";
 		};
 	};
@@ -173,16 +180,16 @@
 	};
 	91A7C9AA0FE729B400EB35E2 /* ClockWindow.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {692, 467}}";
+			sepNavIntBoundsRect = "{{0, 0}, {531, 245}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 46}";
 		};
 	};
 	91A7C9AB0FE729B400EB35E2 /* ClockWindow.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1188, 497}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 345}}";
 			sepNavSelRange = "{495, 0}";
-			sepNavVisRange = "{0, 568}";
+			sepNavVisRange = "{0, 494}";
 		};
 	};
 	91A7CA450FE7347B00EB35E2 /* PBXTextBookmark */ = {
@@ -258,6 +265,66 @@
 		name = CGWindowLevel.h;
 		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Headers/CGWindowLevel.h;
 		sourceTree = "<absolute>";
+	};
+	91B24277105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ClockAppDelegate.h */;
+		name = "ClockAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	91B24278105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 91A7C8E90FE7044700EB35E2 /* ClockDisplay.h */;
+		name = "ClockDisplay.h: 3";
+		rLen = 0;
+		rLoc = 35;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	91B24279105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 91A7C8EA0FE7044700EB35E2 /* ClockDisplay.m */;
+		name = "ClockDisplay.m: 12";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 517;
+		vrLoc = 0;
+	};
+	91B2427A105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 91A7C9AB0FE729B400EB35E2 /* ClockWindow.m */;
+		name = "ClockWindow.m: 18";
+		rLen = 0;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 0;
+	};
+	91B2427B105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 91A7C9AA0FE729B400EB35E2 /* ClockWindow.h */;
+		name = "ClockWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 46;
+		vrLoc = 0;
+	};
+	91B2427C105F6789003CDEE0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 91A7C9AA0FE729B400EB35E2 /* ClockWindow.h */;
+		name = "ClockWindow.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 46;
+		vrLoc = 0;
 	};
 	91B77F580FF5E62A00FC96DE /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
