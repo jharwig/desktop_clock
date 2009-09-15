@@ -1,0 +1,2 @@
+= desktop_clock
+==== Translucent time and date on OS X desktop

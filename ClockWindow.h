@@ -1,0 +1,6 @@
+
+@interface ClockWindow : NSWindow {
+
+}
+
+@end
