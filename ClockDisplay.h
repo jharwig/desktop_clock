@@ -9,6 +9,6 @@
 	NSDate *date;	
 }
 
-@property (retain) NSDate *date;
+@property (retain, nonatomic) NSDate *date;
 
 @end
